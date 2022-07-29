@@ -1,5 +1,9 @@
 ## Fancy CLI tool from fireship-io
 <a href="#"><img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="175px"/></a>
+
+1-) npm install
+2-) node index.js
+
 ## Packages Used
 
 [chalk](https://github.com/chalk/chalk) | 
