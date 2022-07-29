@@ -1,7 +1,8 @@
 ## Fancy CLI tool from fireship-io
-<a href="#"><img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="100px"/></a>
 
 1-) npm install
+<br/>  
 2-) node index.js
 
 ## Packages Used
